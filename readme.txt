@@ -1,4 +1,2 @@
-git  good
+git is not good
 git is very good
-adadadadas
-ajahfafjka
