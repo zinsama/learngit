@@ -3,3 +3,4 @@ git is very good
 paradox?
 git tracks changes
 remote test
+remote test2
